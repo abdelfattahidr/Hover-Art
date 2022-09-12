@@ -1,4 +1,4 @@
- /* button 1 */
+ /* div center */
 div{
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@ div{
     left: 50%;
     transform: translate(-50%,-50%);
 }
-
+/* button 1 */
  .btn1 {
     padding: 16px 48px;
     background: none;
